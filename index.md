@@ -15,7 +15,8 @@ My research interests are mainly on natural language processing and machine lear
     [16-Fall](http://ybwu.org/ecnu-oslabs/index.html), 
 [15-Fall](http://ybwu.org/ecnu-oslabs/15-Fall/index.html)
 * Object Oriented Programming with Java  
-    [16-Spring](http://ybwu.org/ecnu-java/16-Spring/index.html)
+    [17-Spring](http://ybwu.org/ecnu-java/index.html),
+    [16-Spring](http://ybwu.org/ecnu-java/16-Spring/index.html),
 
 ##Software
 
@@ -56,7 +57,7 @@ Coming Soon
 
 ##Contact
 ybwu[at]cs.ecnu.edu.cn  
-610 Information Building, 500 DongChuang Rd, Shanghai 200241
+B911 Science Building, 3663 North Zhongshan Road, Shanghai, 200062
 
 
 
