@@ -25,6 +25,21 @@ Coming Soon
 
 ##Publication
 
+* Inference on Syntactic and Semantic Structures for Machine Comprehension  
+    Chenrui Li, Yuanbin Wu, Man Lan, AAAI 2018 (to appear)
+
+* A Learning Error Analysis for Structured Prediction with Approximate Inference   
+    Yuanbin Wu, Man Lan, Shiliang Sun, Qi Zhang, Xuanjing Huang, NIPS 2017
+
+* A Fast and Lightweight System for Multilingual Dependency Parsing   
+    Tao Ji, Yuanbin Wu, Man Lan, CoNLL Shared Task 2017
+
+* Large-scale Opinion Relation Extraction with Distantly Supervised Neural Network   
+    Changzhi Sun, Yuanbin Wu, Man Lan, Shiliang Sun, Qi Zhang, EACL 2017
+
+* Multi-task Attention-based Neural Networks for Implicit Discourse Relationship Representation and Identification   
+    Man Lan, Jianxiang Wang, Yuanbin Wu, Zheng-Yu Niu, Haifeng Wang, EMNLP 2017 
+
 * An Online Learning Algorithm for Bilinear Models   
     Yuanbin Wu, Shiliang Sun, ICML 2015 
 
