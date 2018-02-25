@@ -1,13 +1,11 @@
-
-
-#Yuanbin Wu <img style="float: right;" height="50" width="25" src="images/me.jpg"/>
+% Yuanbin Wu <img style="float: right;" height="50" width="25" src="images/me.jpg"/>
 
 I'm currently an assistant professor at [Computer Science Department](http://www.cs.ecnu.edu.cn), [East China Normal University](http://www.ecnu.edu.cn). Before joining ECNU, I got both my B.S. (2007) and Ph.D (2012) degree from [Fudan University](http://www.fudan.edu.cn), and worked as a research fellow at [National University of Singapore](http://www.nus.edu.sg) (2013).
 
-##Research
+## Research
 My research interests are mainly on natural language processing and machine learning (structured prediction, online learning). I aim to build efficient and effective models for computing human languages. 
 
-##Teaching
+## Teaching
 
 * Advanced Machine Learning   
     15-Fall, 14-Spring
@@ -16,14 +14,15 @@ My research interests are mainly on natural language processing and machine lear
     [16-Fall](http://ybwu.org/ecnu-oslabs/16-Fall/index.html), 
 [15-Fall](http://ybwu.org/ecnu-oslabs/15-Fall/index.html)
 * Object Oriented Programming with Java  
-    [17-Spring](http://ybwu.org/ecnu-java/index.html),
+    [18-Spring](http://ybwu.org/ecnu-java/index.html),
+    [17-Spring](http://ybwu.org/ecnu-java/17-Spring/index.html),
     [16-Spring](http://ybwu.org/ecnu-java/16-Spring/index.html),
 
-##Software
+## Software
 
 Coming Soon
 
-##Publication
+## Publication
 
 * Inference on Syntactic and Semantic Structures for Machine Comprehension  
     Chenrui Li, Yuanbin Wu, Man Lan, AAAI 2018 (to appear)
@@ -71,7 +70,7 @@ Coming Soon
     Qi Zhang, Yuanbin Wu, Tao Li, Mitsunori Ogihara, Joseph Johnson, Xuanjing Huang, SIGIR (poster) 2009
 
 
-##Contact
+## Contact
 ybwu[at]cs.ecnu.edu.cn  
 B911 Science Building, 3663 North Zhongshan Road, Shanghai, 200062
 
