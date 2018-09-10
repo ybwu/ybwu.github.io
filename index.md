@@ -10,7 +10,8 @@ My research interests are mainly on natural language processing and machine lear
 * Advanced Machine Learning   
     15-Fall, 14-Spring
 * Operating System Labs   
-    [17-Fall](http://ybwu.org/ecnu-oslabs/index.html), 
+    [18-Fall](http://ybwu.org/ecnu-oslabs/index.html), 
+    [17-Fall](http://ybwu.org/ecnu-oslabs/17-Fall/index.html), 
     [16-Fall](http://ybwu.org/ecnu-oslabs/16-Fall/index.html), 
 [15-Fall](http://ybwu.org/ecnu-oslabs/15-Fall/index.html)
 * Object Oriented Programming with Java  
@@ -24,8 +25,14 @@ Coming Soon
 
 ## Publication
 
+* Extracting Entities and Relations with Joint Minimum Risk Training    
+    Changzhi Sun, Yuanbin Wu, Man Lan, Shiliang Sun, Wenting Wang, Kuang-Chih Lee, Kewen Wu, EMNLP 2018 
+
+* An Adversarial Joint Learning Model for Low-Resource Language Semantic Textual Similarity   
+    Junfeng Tian, Man Lan, Yuanbin Wu, Jingang Wang, Long Qiu, Sheng Li, Jun Lang, Luo Si, ECIR 2018
+
 * Inference on Syntactic and Semantic Structures for Machine Comprehension  
-    Chenrui Li, Yuanbin Wu, Man Lan, AAAI 2018 (to appear)
+    Chenrui Li, Yuanbin Wu, Man Lan, AAAI 2018
 
 * A Learning Error Analysis for Structured Prediction with Approximate Inference   
     Yuanbin Wu, Man Lan, Shiliang Sun, Qi Zhang, Xuanjing Huang, NIPS 2017
